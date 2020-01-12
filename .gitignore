@@ -2,6 +2,10 @@
 .idea
 .DS_Store
 
+# output
+deep-dream.jpeg
+deep-dream.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
