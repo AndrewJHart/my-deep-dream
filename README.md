@@ -1,5 +1,5 @@
 
-# Deep Dream (for everyone)
+# Deep Dream For Everyone (if you use osx :D)
 
 Minimal Python/TensorFlow implementation of the DeepDream algorithm originally created by [Alexander Mordvintsev](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html).
 
